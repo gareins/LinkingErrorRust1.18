@@ -1,0 +1,9 @@
+[package]
+name = "recreate_link"
+version = "0.1.0"
+authors = ["Ozbolt Menegatti <ozbolt.menegatti@gmail.com>"]
+
+[dependencies]
+
+[build-dependencies]
+gcc = "*"
